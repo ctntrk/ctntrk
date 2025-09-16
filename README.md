@@ -1,6 +1,17 @@
-Hello, my name is Fatma Nur. 😊 I am interested in Artificial Intelligence 🤖 and Data Science 📊. First, I studied Data Science 📚, now I am studying Artificial Intelligence 🎓. I have created some projects with open-source models 💻. In these projects, text ✍️, image 🖼️, audio 🎧 models were used. I also create text ✍️, audio 🎶, images 🖼️ and videos 🎥 with popular AI tools 🔧.
+👋 Hello! I'm Fatma Nur.  
+🤖 I’m passionate about **Artificial Intelligence** and 📊 **Data Science**.  
+📚 I studied **Data Science**, and now I'm studying **Artificial Intelligence** 🎓.  
+💻 I've built several open-source projects using AI models — including:  
+✍️ **Text**, 🖼️ **Image**, 🎧 **Audio**, and 🎥 **Video** processing.  
+🛠️ I work with tools like:  
+• 🧠 **NLP**  
+• 📚 **LLMs**  
+• 🤗 **Hugging Face Transformers**  
+• 🔬 **Open-source AI models**  
+• 📈 **Data Analysis & Visualization**  
 
-- NLP, LLM, Hugging Face Transformers
+🚀 I love turning complex problems into useful and creative AI solutions!
+
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ctntrk)
 
