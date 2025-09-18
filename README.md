@@ -2,7 +2,7 @@
 🤖 I’m passionate about **Artificial Intelligence** and 📊 **Data Science**.  
 📚 I studied **Data Science**, and now I'm studying **Artificial Intelligence** 🎓.  
 💻 I've built several open-source projects using AI models — including:  
-✍️ **Text**, 🖼️ **Image**, 🎧 **Audio**, and 🎥 **Video** processing.  
+✍️ **Text**, 🖼️ **Image** and 🎧 **Audio** processing.  
 🛠️ I work with tools like:  
 • 🧠 **NLP**  
 • 📚 **LLMs**  
