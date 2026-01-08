@@ -18,13 +18,13 @@ I am an AI developer focused on bridging the gap between sophisticated AI resear
 
 ## 🌟 Strategic Project Spotlights
 
-### 🧠 [ReviewInsightX](link) & [AutoDocX](link)
+### 🧠 [ReviewInsightX](https://github.com/ctntrk/ReviewInsightX-AI-Assisted-App-Review-Summarization-and-Strategic-Feedback-Extraction) & [AutoDocX](https://github.com/ctntrk/AutoDocX-AI-Powered-Python-Code-Understanding-and-Reporting)
 Advanced AI tools for **Strategic Feedback Extraction** and **Code Documentation**. I build systems that don't just process text, but "understand" logic and intent to save human time.
 
-### 🎥 [Long YouTube Video Summarizer](link)
+### 🎥 [Long YouTube Video Summarizer](https://github.com/ctntrk/Long-YouTube-Video-Summarizer)
 A multi-stage pipeline utilizing **Whisper** for transcription and **BART** for chunk-based summarization, handling long-form content efficiently.
 
-### 📊 [AI-Powered PDF Report Generator](link)
+### 📊 [AI-Powered PDF Report Generator](https://github.com/ctntrk/AI-Powered-Chart-Analysis-PDF-Report-Generator)
 An automation tool that converts raw datasets into professional, chart-heavy business reports using LLMs for data interpretation.
 
 ---
