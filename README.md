@@ -39,6 +39,7 @@ An automation tool that converts raw datasets into professional, chart-heavy bus
 
 ## 🔗 Let's Connect!
 
+[<img src="https://img.shields.io/badge/Personal%20Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://ctntrk.github.io/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fatma-nur-cetinturk)
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@fatmanurctntrk)
 [<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/fatmanurcetnturk)
